@@ -37,11 +37,3 @@ public:
 // Record
     void Show_Record();
 };
-//
-// Created by YN on 5/6/2024.
-//
-
-#ifndef EMPLOYEEMANGAMENT_EMPLOYEEMANGAMENT_H
-#define EMPLOYEEMANGAMENT_EMPLOYEEMANGAMENT_H
-
-#endif //EMPLOYEEMANGAMENT_EMPLOYEEMANGAMENT_H
