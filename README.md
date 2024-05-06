@@ -12,7 +12,7 @@ Search_Record(int id): Searches for an employee record in the list.
 Show_Record(): Displays all employee records in the list.
 ## Usage
 Here's an example of how to use the Employee class:
-```
+```cpp
 Employee e1;
 - ![#f03c15] string Name, Department;
 int id, Salary;
@@ -44,7 +44,7 @@ e1.Show_Record();
 
 
 ## Data Structures
-This project uses the concept of a **singly linked list**, which is a fundamental data structure in computer science. In this case, the linked list is used to store and manage the employee records.
+This project uses the concept of a `singly linked list`, which is a fundamental `data structure` in computer science. In this case, the `linked list` is used to store and manage the employee records.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
