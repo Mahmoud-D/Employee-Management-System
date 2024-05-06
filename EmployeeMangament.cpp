@@ -230,8 +230,3 @@ void Employee::Show_Record()
         }
     }
 };
-
-
-//
-// Created by YN on 5/6/2024.
-//
